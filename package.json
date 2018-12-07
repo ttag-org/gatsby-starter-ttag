@@ -1,8 +1,8 @@
 {
-  "name": "gatsby-starter-default",
-  "description": "Gatsby default starter",
+  "name": "gatsby-starter-ttag",
+  "description": "Gatsby starter with ttag for precompiled internationalization",
   "version": "1.0.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "author": "Jared Henderson <jared@netrivet.com>",
   "dependencies": {
     "babel-plugin-ttag": "^1.4.2",
     "babel-preset-gatsby": "^0.1.6",
@@ -20,7 +20,8 @@
     "ttag": "^1.4.2"
   },
   "keywords": [
-    "gatsby"
+    "gatsby",
+    "ttag"
   ],
   "license": "MIT",
   "scripts": {
@@ -38,6 +39,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/gatsbyjs/gatsby-starter-default"
+    "url": "https://github.com/jaredh159/gatsby-starter-ttag"
   }
 }
